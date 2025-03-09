@@ -1,11 +1,11 @@
 # Automated-Web-Scraping 
-Extracts the latest listings in real-time and displays them to the end-user GUI. \
-Client-Server architecture. \ 
+Extracts the latest listings in real-time, stores them in PostgreSQL DB, client periodically fetches data from the server and displays it in a GUI. 
+Client-Server architecture. 
 
-# Client GUI: 
+# Client:  
 ![Screenshot 2025-03-09 140442](https://github.com/user-attachments/assets/d3735462-b169-4eb0-b7d6-da726211f5a4)
 
-# Server logs: 
+# Server: 
 ![Screenshot 2025-03-09 140552](https://github.com/user-attachments/assets/5f9cea61-dd8f-43ed-8423-c777c5ec9306)
 
 # PostgreSQL:  
